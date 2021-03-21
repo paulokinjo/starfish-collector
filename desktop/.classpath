@@ -21,5 +21,6 @@
 	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="/Users/paulo.kinjo/Downloads/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="/Users/paulo.kinjo/Downloads/assertj-core-3.19.0.jar"/>
 	<classpathentry kind="output" path="bin/default"/>
 </classpath>

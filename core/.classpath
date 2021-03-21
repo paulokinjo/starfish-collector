@@ -18,5 +18,7 @@
 	<classpathentry kind="lib" path="/Users/paulo.kinjo/Downloads/junit-jupiter-api-5.7.1.jar"/>
 	<classpathentry kind="lib" path="/Users/paulo.kinjo/Downloads/gdx-backend-headless-1.9.14.jar"/>
 	<classpathentry kind="lib" path="/Users/paulo.kinjo/Downloads/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="/Users/paulo.kinjo/Downloads/assertj-core-3.19.0.jar"/>
+	<classpathentry kind="lib" path="/Users/paulo.kinjo/Documents/Projects/Java/bkp/startfish-collector/libs/gdx-natives.jar"/>
 	<classpathentry kind="output" path="bin/default"/>
 </classpath>
